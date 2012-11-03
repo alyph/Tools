@@ -97,14 +97,33 @@ function main()
 		var rowi = 0;
 		var coli = 0;
 		
+		var backLayer = null;
+		var moves = [];
+		
 		for (i=(numLayers - 1); i >= 0; i--) 
-		{ 	
-			docRef.artLayers[i].visible = 1;
+		{
+			var curLayer = docRef.artLayers[i];
+			curLayer.visible = 1;
+			
+			// back layer
+			if (curLayer.name.toLowerCase().indexOf("back") === 0)
+			{
+				// process last back layer
+				if (backLayer !== null)
+					processBackLayer(backLayer, moves);
+				backLayer = curLayer;
+				moves.length = 0;
+				continue;
+			}
 			
 			var movX = spriteX*coli;
 			var movY = spriteY*rowi;
 			
 			docRef.artLayers[i].translate(movX, movY);
+			
+			// store the moves for back layer
+			if (backLayer !== null)
+				moves.push([movX, movY]);
 			
 			coli++;
 			if (coli > (cols - 1)) 
@@ -113,6 +132,10 @@ function main()
 				coli = 0;
 			}
 		}
+		
+		// process last back layer
+		if (backLayer !== null)
+			processBackLayer(backLayer, moves);
 		
 		// now save the processed sprite to a png file
 		var selFile = File.saveDialog("Save Sprite To", "PNG:*.png");
@@ -133,5 +156,28 @@ function main()
 		
 		// resume the ruler units setting
 		app.preferences.rulerUnits = oldUnits;
+	}
+}
+
+function processBackLayer(layer, moves)
+{
+	if (moves.length > 0)
+	{
+		// duplicate to create one layer for each move
+		var backLayers = [layer];
+		for (var di = 0; di < moves.length - 1; di++)
+			backLayers.push(layer.duplicate(layer, ElementPlacement.PLACEAFTER))
+		
+		// move to proper location
+		for (var li = 0; li < backLayers.length; li++)
+			backLayers[li].translate(moves[li][0], moves[li][1]);
+		
+		// merge back into one layer
+		for (var li = 0; li < backLayers.length - 1; li++)
+			backLayers[li].merge();
+	}
+	else // if covering nothing, hide the back layer
+	{
+		layer.visible = 0;
 	}
 }
