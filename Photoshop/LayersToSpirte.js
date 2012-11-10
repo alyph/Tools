@@ -141,8 +141,9 @@ function main()
 		var selFile = File.saveDialog("Save Sprite To", "PNG:*.png");
 		if ( selFile != null ) 
 		{
-			docRef.saveAs(selFile, new PNGSaveOptions(), true, Extension.LOWERCASE);
-
+			var pngOptions = new PNGSaveOptions();
+			pngOptions.compression = 9;
+			docRef.saveAs(selFile, pngOptions, true, Extension.LOWERCASE);
 		}
 		else // if not saved, everything will be reverted regardless
 		{
@@ -166,7 +167,7 @@ function processBackLayer(layer, moves)
 		// duplicate to create one layer for each move
 		var backLayers = [layer];
 		for (var di = 0; di < moves.length - 1; di++)
-			backLayers.push(layer.duplicate(layer, ElementPlacement.PLACEAFTER))
+			backLayers.push(layer.duplicate(backLayers[di], ElementPlacement.PLACEAFTER))
 		
 		// move to proper location
 		for (var li = 0; li < backLayers.length; li++)
