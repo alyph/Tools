@@ -27,7 +27,7 @@ function main()
 	catch(err) // can fail if the file has never been saved
 	{
 		// TODO: we could instead continue by prompt a save as dialog
-		alert("The document must have been saved at least once to proceed!");
+		alert("The document must have been saved at least once to proceed!\n" + err);
 		return;
 	}
 	

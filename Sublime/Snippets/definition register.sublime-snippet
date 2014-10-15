@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+Definition.register(
+${1:{
+	base : "${2:Defs}.${3:Base}",
+	group : "${2:Defs}"
+\},
+}{
+	${0://definitions}
+});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>def</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
