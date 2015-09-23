@@ -1,0 +1,101 @@
+# [PackageDev] target_format: plist, ext: tmLanguage
+# <key>=>
+#   <events>
+#   <properties>
+#   <conditions>
+#   <operators>
+#   <scopes>
+#   <command>
+---
+name: CK2 script
+scopeName: source.ck2_script
+fileTypes: []
+uuid: a69eb4bc-df5a-4ec9-beae-c7c0f2a95143
+patterns:
+- include: '#comments'
+- name: comment.block.sass
+  match: (?:character_event|on_startup)\s*(?=\=)
+- match: (namespace)\s*(=)\s*([a-zA-Z_]+)
+  captures:
+    '1': {name: comment.block.sass.ck2_script}
+    '2': {name: keyword.operator.ck2_script}
+    '3': {name: variable.other.object.ck2_script}
+- include: '#values'
+- include: '#invalid'
+repository:
+  comments:
+    name: comment.line.number-sign.ck2_script
+    match: '#.*'
+  values:
+    #name: meta.property-list.css
+    begin: '\s*(=)\s*'
+    beginCaptures:
+      '1': {name: keyword.operator.ck2_script}
+    end: (?<=[^\s=])\s*(?=[\W])
+    patterns:
+    - name: constant.language.ck2_script
+      match: \b(?i:yes|no)\b
+    - name: constant.numeric.ck2_script
+      match: \b\d+\b
+    - include: '#specialscopes'
+    - include: '#comments'
+    - include: '#clause'
+    - match: '(?:EVT(?:DESC|OPT)[\w\.]*|OK)\b'
+      name: string.quoted
+    - match: 'GFX[\w\.]*\b'
+      name: string.quoted
+    - match: \b(\w+)(\.)(\d+)\b
+      captures:
+        '1': {name: variable.other.object.ck2_script}
+        '2': {name: keyword.operator.ck2_script}
+        '3': {name: variable.other.ck2_script}
+    - name: variable.other.constant.ck2_script
+      match: \w+
+  clause:
+    begin: (\{)
+    beginCaptures:
+      '1': {name: meta.brace.curly}
+    end: (\})
+    endCaptures:
+      '1': {name: meta.brace.curly}
+    #name: meta.property-list.css
+    #contentName: string.quoted # meta.property-list.css
+    patterns:
+    - include: '#keys'
+    - include: '#values'
+    - include: '#comments'
+    - include: '#invalid'
+  keys:
+    begin: \s*(?=[\w])
+    end: \s*(?=\W)
+    patterns:
+    - include: '#properties'
+    - include: '#specialscopes'
+    - include: '#scopes'
+    - include: '#conditionoperators'
+    - include: '#conditions'
+    - include: '#commands'
+    - include: '#invalid'
+  properties:
+    match: \b(?:id|desc|picture|is_triggered_only|option|name)\b
+    name: meta.diff.range.unified
+  specialscopes:
+    match: \b(?:ROOT|FROM|PREV|THIS|)\b
+    name: keyword.other.ck2_script
+  scopes:
+    match: \b(?:any_allied_character|any_friend)\b
+    name: entity.other.attribute-name.placeholder-selector.sass
+  conditionoperators:
+    match: \b(?:AND|OR|NOT|NOR|NAND|calc_true_if)\b
+    name: variable.parameter.function.language
+  conditions:
+    match: \b(?:age|ai)\b
+    name: variable.parameter.function.language
+  commands:
+    match: \b(?:add_claim|add_friend)\b
+    name: entity.other.inherited-class.ck2_script
+  invalid:
+    name: invalid.deprecated.ck2_script
+    match: \S
+
+
