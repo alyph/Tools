@@ -1,0 +1,1784 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"name",
+				"names"
+			],
+			[
+				"fin",
+				"finalize"
+			],
+			[
+				"coll",
+				"collector"
+			],
+			[
+				"na",
+				"names"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"condi",
+				"conditions"
+			],
+			[
+				"be",
+				"beginCaptures	beginCaptures:"
+			],
+			[
+				"is",
+				"is_triggered_only"
+			],
+			[
+				"end",
+				"end	end:"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"sprite",
+				"sprites"
+			],
+			[
+				"finish",
+				"finishedHandler"
+			],
+			[
+				"fini",
+				"finishedHandler"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"prop",
+				"properties"
+			],
+			[
+				"Behav",
+				"Behavior"
+			],
+			[
+				"Behavio",
+				"BehaviorListener"
+			],
+			[
+				"lis",
+				"listeners"
+			],
+			[
+				"cls",
+				"cls	base class"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"pend",
+				"pendingTemplates"
+			],
+			[
+				"depe",
+				"dependencies"
+			],
+			[
+				"pendin",
+				"pending"
+			],
+			[
+				"Custom",
+				"CustomProperty"
+			],
+			[
+				"proper",
+				"properties"
+			],
+			[
+				"ele",
+				"elementInfos"
+			],
+			[
+				"Elem",
+				"ElementProperty"
+			],
+			[
+				"behav",
+				"behaviorNames"
+			],
+			[
+				"bind",
+				"bindingFunc"
+			],
+			[
+				"Ele",
+				"ElementInfo"
+			],
+			[
+				"liste",
+				"listener"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"custom",
+				"customElemProto"
+			],
+			[
+				"bindi",
+				"binding"
+			],
+			[
+				"Bind",
+				"BindingInfo"
+			],
+			[
+				"cu",
+				"customElemProto"
+			],
+			[
+				"read",
+				"readyCallback"
+			],
+			[
+				"iden",
+				"identifier"
+			],
+			[
+				"tok",
+				"tokens"
+			],
+			[
+				"arg",
+				"args"
+			],
+			[
+				"funcn",
+				"funcName"
+			],
+			[
+				"funct",
+				"functable"
+			],
+			[
+				"predi",
+				"predicate"
+			],
+			[
+				"predic",
+				"predicates"
+			],
+			[
+				"pred",
+				"predicate"
+			],
+			[
+				"toke",
+				"token"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"resolv",
+				"resolverName"
+			],
+			[
+				"param",
+				"parameter"
+			],
+			[
+				"fun",
+				"func	Function Ex"
+			],
+			[
+				"Token",
+				"TokenTypes"
+			],
+			[
+				"com",
+				"comma"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"inde",
+				"index"
+			],
+			[
+				"namesp",
+				"namespaces"
+			],
+			[
+				"value",
+				"values"
+			],
+			[
+				"k",
+				"keeper"
+			],
+			[
+				"ene",
+				"entities"
+			],
+			[
+				"enti",
+				"entities"
+			],
+			[
+				"pop",
+				"populateActions"
+			],
+			[
+				"Resol",
+				"ResolverExpression"
+			],
+			[
+				"compo",
+				"compositePredicates"
+			],
+			[
+				"resol",
+				"resolverArgs"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"buildpar",
+				"buildPredicateExpression"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"Toke",
+				"TokenTypes"
+			],
+			[
+				"tar",
+				"targetObj"
+			],
+			[
+				"nu",
+				"null"
+			],
+			[
+				"ke",
+				"keyword"
+			],
+			[
+				"Desc",
+				"DescriptionQueryResult"
+			],
+			[
+				"des",
+				"descriptors"
+			],
+			[
+				"to",
+				"totalHeight"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"sour",
+				"sourceBase"
+			],
+			[
+				"beg",
+				"beginPlay"
+			],
+			[
+				"ent",
+				"entity"
+			],
+			[
+				"func",
+				"func	Function Ex"
+			],
+			[
+				"encr",
+				"encryptedText"
+			],
+			[
+				"ori",
+				"originalText"
+			],
+			[
+				"entit",
+				"entities"
+			],
+			[
+				"descrip",
+				"descriptor"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"desci",
+				"descriptors"
+			],
+			[
+				"desc",
+				"desc"
+			],
+			[
+				"Des",
+				"Descriptor"
+			],
+			[
+				"key",
+				"keywordName"
+			],
+			[
+				"reco",
+				"records"
+			],
+			[
+				"Cls",
+				"baseCls"
+			],
+			[
+				"cl",
+				"cls	base class"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"Activ",
+				"ActivityDefinition"
+			],
+			[
+				"usen",
+				"useNamespace"
+			],
+			[
+				"glo",
+				"globalFunc"
+			],
+			[
+				"global",
+				"global"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"names",
+				"namespace"
+			],
+			[
+				"obje",
+				"objects"
+			],
+			[
+				"nw",
+				"newValue"
+			],
+			[
+				"sou",
+				"source"
+			],
+			[
+				"constr",
+				"constructor"
+			],
+			[
+				"base",
+				"base"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"def",
+				"deferredQueue"
+			],
+			[
+				"const",
+				"constructor"
+			],
+			[
+				"recor",
+				"record"
+			],
+			[
+				"exte",
+				"extendObject"
+			],
+			[
+				"ex",
+				"extendObjects"
+			],
+			[
+				"cons",
+				"constructObjects"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"regi",
+				"registerGlobalFunc"
+			],
+			[
+				"upa",
+				"updater"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"fil",
+				"filters"
+			],
+			[
+				"filt",
+				"filters"
+			],
+			[
+				"play",
+				"playerMove"
+			],
+			[
+				"even",
+				"events"
+			],
+			[
+				"grou",
+				"groups"
+			],
+			[
+				"acto",
+				"actors"
+			],
+			[
+				"ac",
+				"actor"
+			],
+			[
+				"actor",
+				"actor"
+			],
+			[
+				"group",
+				"groups"
+			],
+			[
+				"initi",
+				"initiateCombat"
+			],
+			[
+				"state",
+				"STATE_Instant"
+			],
+			[
+				"update",
+				"updateEntryFinished"
+			],
+			[
+				"stat",
+				"STATE_Finished"
+			],
+			[
+				"fac",
+				"facingRight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 411,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/main.js",
+			"settings":
+			{
+				"buffer_size": 304,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/probe/ck2.js",
+			"settings":
+			{
+				"buffer_size": 2531,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/probe/probe.js",
+			"settings":
+			{
+				"buffer_size": 2247,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					""
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"JSON"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"Property List"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"YAML (Block Style)"
+				],
+				[
+					"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+					"YAML (Default Style)"
+				]
+			],
+			[
+				"Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 178.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: for (…) {…}"
+			],
+			[
+				"pakc",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"jslin",
+				"JSLint: Run JSLint"
+			],
+			[
+				"jsli",
+				"JSLint: Run JSLint"
+			],
+			[
+				"jsl",
+				"JSLint: Run JSLint"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pckage ",
+				"Package Control: Remove Package"
+			],
+			[
+				"reset",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 422.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"2*3",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/dev/Tools/WebProbe",
+		"/D/dev/Tools/WebProbe/src",
+		"/D/dev/Tools/WebProbe/src/probe"
+	],
+	"file_history":
+	[
+		"/D/Program Files (x86)/Steam/steamapps/common/Crusader Kings II/events/friends_rivals_events.txt",
+		"/E/Downloads/CK2_notepad++_language/CK2.xml",
+		"/E/Downloads/CK2_notepad++_language/CK2lang.xml",
+		"/D/Program Files (x86)/Steam/steamapps/common/Crusader Kings II/common/on_actions/00_on_actions.txt",
+		"/D/dev/CK2Mod/animus_magnum.sublime-project",
+		"/C/Users/Alyph/AppData/Roaming/Sublime Text 3/Packages/User/ck2_script.sublime-settings",
+		"/C/Users/Alyph/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Alyph/AppData/Roaming/Sublime Text 3/Packages/User/Sublime Settings.sublime-settings",
+		"/C/Users/Alyph/Desktop/YAML.YAML-tmLanguage",
+		"/C/Users/Alyph/Desktop/YAML.tmLanguage",
+		"/D/Documents/Paradox Interactive/Crusader Kings II/mod/ck2plus.mod",
+		"/D/dev/CK2Mod/animus_magnum.mod",
+		"/D/dev/CK2Mod/animus_magnum/descriptor.mod",
+		"/D/Alyph/Documents/Paradox Interactive/Crusader Kings II/mod/animus_magnum.mod",
+		"/D/Documents/Paradox Interactive/Crusader Kings II/mod/animus_magnum.mod",
+		"/D/dev/CK2Mod/descriptor.mod",
+		"/D/dev/Samsara/Docs/Scratch.js",
+		"/D/dev/Samsara/Docs/Notes.todo",
+		"/D/dev/webcomponents/dev/js/components/SkillSlot.js",
+		"/D/dev/Samsara/Source/UI/tests/templatestyle.css",
+		"/D/dev/webcomponents/dev/components/SkillSlot.html",
+		"/D/dev/webcomponents/dev/index.html",
+		"/D/dev/webcomponents/Notes.md",
+		"/D/dev/Samsara/Source/UI/Tests/templates.html",
+		"/D/dev/Samsara/Docs/Designs.org",
+		"/D/dev/Samsara/Source/Game.js",
+		"/D/dev/Samsara/Source/Components/CardComponent.js",
+		"/D/dev/Samsara/Source/Core/Planner.js",
+		"/D/dev/Samsara/Source/Entities/World.js",
+		"/D/dev/Samsara/Source/Definitions/Globals.js",
+		"/D/dev/Samsara/Source/Entities/Global.js",
+		"/D/dev/Samsara/Source/Definitions/WorldData.js",
+		"/D/dev/Samsara/Source/Entities/Scripting.js",
+		"/D/dev/Samsara/Source/Entities/Entity.js",
+		"/D/dev/Samsara/Source/Core/BaseObject.js",
+		"/D/dev/Samsara/Source/Core/Archive.js",
+		"/D/dev/Samsara/Source/Entities/Player.js",
+		"/D/dev/Samsara/Source/Definitions/Actions.js",
+		"/D/dev/Samsara/Source/Entities/Action.js",
+		"/D/dev/Samsara/Source/Main.js",
+		"/D/dev/Samsara/Source/UI/tests/index.html",
+		"/D/dev/Samsara/Source/Libs/jsface.js",
+		"/C/Users/Alyph/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/jsface class child.sublime-snippet",
+		"/C/Users/Alyph/AppData/Roaming/Sublime Text 3/Packages/User/Snippets/jsface class base.sublime-snippet",
+		"/D/dev/Samsara/Source/UI/tests/secondtemplates.html",
+		"/D/dev/Samsara/Source/UI/Tests/ui_test.js",
+		"/D/dev/Samsara/Source/Entities/Stage.js",
+		"/D/dev/Samsara/Source/UI/UI.js",
+		"/D/dev/Samsara/Source/Entities/POV.js",
+		"/D/dev/Samsara/Source/Entities/Keeper.js",
+		"/D/dev/taskterminal/README.md",
+		"/D/dev/Samsara/Source/Core/System.js",
+		"/D/dev/Samsara/Source/UI/behaviors/basic_behaviors.js",
+		"/C/Users/Alyph/AppData/Roaming/Sublime Text 3/Packages/User/SublimeServer.sublime-settings",
+		"/D/dev/Samsara/Source/Core/gallery.js",
+		"/D/dev/Samsara/Source/UI/Elements/BasicElements.js",
+		"/D/dev/Samsara/Source/Definitions/Sprites.js",
+		"/D/dev/Samsara/CSS/Style.css",
+		"/D/dev/Samsara/index.html",
+		"/D/dev/Samsara/Source/UI/Templates/Screens.js",
+		"/D/Program Files (x86)/Steam/steamapps/common/Knights of the Old Republic II/swkotor2.ini",
+		"/D/dev/Samsara/Source/Core/Predicate.js",
+		"/D/dev/Samsara/Source/Core/Components.js",
+		"/C/Users/Alyph/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/Games/3DMGAME-Nobunagas.Ambition.Souzou.WPK.Incl.17.DLCs.CHT.Cracked-3DM/说明.txt",
+		"/D/dev/Samsara/Source/UI/Templates/TestTemplates.html",
+		"/D/dev/Samsara/Source/UI/Tests/Templates.html",
+		"/C/Users/Alyph/AppData/Roaming/Sublime Text 3/Packages/User/run_html.sublime-build",
+		"/D/Documents/gitignore_global.txt",
+		"/D/dev/tframe/StartShell.cmd",
+		"/D/dev/tframe/script/setup.ps1",
+		"/D/dev/Samsara/Source/Entities/Actions.js",
+		"/D/dev/Samsara/Source/Definitions/Actions.j",
+		"/D/dev/Samsara/Source/Definitions/Globals",
+		"/E/Downloads/Galaxy.java",
+		"/C/Users/Alyph/AppData/Roaming/Sublime Text 3/Packages/User/orgmode.sublime-settings",
+		"/F/iTune/iTunes Library.itl",
+		"/C/Users/Alyph/AppData/Roaming/The Creative Assembly/Rome2/logs/event_metrics.xml",
+		"/C/Users/Alyph/AppData/Roaming/Sublime Text 3/Packages/Seti_UI/README.md",
+		"/D/dev/Samsara/Source/Components/Types.js",
+		"/D/dev/Samsara/Source/Components/Encounter.js",
+		"/D/dev/Samsara/Source/Entities/Scene.js",
+		"/D/dev/Samsara/Source/Definitions/Scenes.js",
+		"/D/dev/Samsara/Source/UI/Templates/GameTemplates.js",
+		"/D/dev/Samsara/Source/Entities/POI.js",
+		"/D/dev/Samsara/Source/Entities/Location.js",
+		"/D/dev/topdowngame/Config/DefaultEngine.ini",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/Core/UISizeDefs.xml",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/Core/FontSizes.xml",
+		"/D/Documents/My Games/GalCiv3/debug.err",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/Screens/OptionsCheckBoxEntryWnd.xml",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/Screens/OptionsComboBoxEntryWnd.xml",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/Tools/OptionsCompiler.bat",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/Schema/Enums/GameOptionIDs.xsd",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/Schema/Lib/Screen.xsd",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/Screens/BattleWnd.xml",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/Schema/Lib/Enums/GameOptionTypes.xsd",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/Schema/Lib/Enums/FontDefSizeTypes.xsd",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/Schema/Lib/Enums/UISizeTypes.xsd",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/Screens/OptionsWnd.xml",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/English/Text/UIText.xml",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/Schema/Lib/UISizeDefs.xsd",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/Schema/Lib/UISFXDefs.xsd",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/Schema/Lib/StringTable.xsd",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/Schema/Lib/CustomTypes.xsd",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/Core/FontDefs.xml",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/Core/GalCiv3GraphicsDefs.xml",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/Options/GameOptions.xml",
+		"/D/dev/Samsara/Source/Libs/jquery-2.0.3.js",
+		"/E/Downloads/UniqueCompiler/UniqueCompiler/Parser.cpp",
+		"/C/Users/Alyph/AppData/Roaming/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/D/dev/Samsara/Source/UI/Elements/GameElements.js",
+		"/C/Users/Alyph/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/dev/Tools/Crypter/main.js",
+		"/D/dev/Tools/Crypter/style.css",
+		"/D/dev/Samsara/Source/UI/Templates/BasicTemplates.js",
+		"/D/dev/Samsara/Source/Core/Descriptor.js",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/Options.bin",
+		"/D/Program Files (x86)/Steam/steamapps/common/Galactic Civilizations III/data/Schema/GalCiv3OptionDefs.xsd",
+		"/D/dev/Samsara/Source/Definitions/Locations.js",
+		"/E/movies/Game.of.Thrones.S05E01.1080p.PROPER.HDTV.x264.DD5.1-RARBG/Game.of.Thrones.S05E01.HDTV.x264-ASAP.srt",
+		"/C/Users/Alyph/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/E/Soft/Adobe Photoshop CS6/ChingLiu.Notes.nfo",
+		"/D/dev/Samsara/Source/Definitions/Activities.js",
+		"/D/dev/UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp",
+		"/D/dev/Tools/Crypter/index.html",
+		"/D/dev/Samsara/Source/Utils/Utils.js",
+		"/D/dev/Samsara/Source/Entities/Actor.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+			"",
+			"D:\\dev\\Samsara\\Content",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"any_friend",
+			"a074c4",
+			"meta.property-list.css",
+			"italic",
+			"predic",
+			"italic",
+			"property-name",
+			"property-list",
+			"css",
+			"{}",
+			"italic",
+			"55b5db",
+			"COMMENTS",
+			"chronicle",
+			"imageClass",
+			"this",
+			"images",
+			"offset",
+			"augmentWidthOrHeight",
+			"getWidthOrHeight",
+			"width",
+			"width(",
+			"behaviors",
+			"BehaviorListener",
+			"definition",
+			"templates",
+			"stringify",
+			"ElementProperty",
+			"BehaviorProperty",
+			"<---\n",
+			"showsc",
+			"$baseo",
+			"compiledfun",
+			"attachTo",
+			"parseref",
+			"find",
+			"not im",
+			"tokenize",
+			"TokenReader",
+			"not im",
+			"analyzeSymbol",
+			"findCompiledPredicate",
+			"findPredicate",
+			"findpred",
+			"init : function",
+			"init()",
+			"color",
+			"analyzeSymbol",
+			"hasOwnProperty",
+			"test",
+			"new Binder",
+			"CustomBinder",
+			"bindProperty",
+			"bindObject",
+			"bindProperty",
+			"bindList",
+			"new Binder",
+			"Binder",
+			"$base",
+			"beginPlay",
+			"leaveWorld()",
+			"quote",
+			"large",
+			"uisize",
+			"uisi",
+			"ComboBox",
+			"compositePredicates",
+			"TOKEN_RETURN",
+			"substr(1)",
+			"s+",
+			"/s+",
+			"CustomValue",
+			"customval",
+			"resolveObject",
+			"CustomBinder",
+			"spawn",
+			"this.data",
+			"setinter",
+			"load",
+			"resolveBase",
+			"resolvebase",
+			"callback",
+			"endPlay",
+			"loaded",
+			"load",
+			"init",
+			"isInstance",
+			"LatentUpdater",
+			" bRunPhysicsWithNoController",
+			"bodering",
+			".concat()",
+			"resolveName",
+			"$ref",
+			"Data",
+			"target[key]",
+			"source",
+			"value",
+			"baserec",
+			"baseobj",
+			"baserec",
+			"baseobj",
+			"prototype",
+			"proto",
+			"callback",
+			"updatefini",
+			"GameplayAbilities",
+			"FAssetTypeActions_GameplayAbilitiesBlueprint",
+			"isfunc",
+			"actionslot",
+			"slots",
+			"updating",
+			"playerFinished",
+			"throw (\"not implemented!\");",
+			"grid.width",
+			"grid.left",
+			"throw (\"not implemented!\");",
+			"data.actor",
+			"grid.actors",
+			"throw (\"not implemented!\");",
+			"aleph@",
+			"aleph",
+			"generateRandomEncounter",
+			"clear",
+			"enter",
+			"context",
+			"smaa",
+			"mixer",
+			"sen"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"property",
+			"ElementPropertyInfo",
+			"findCompiledPredicate",
+			"list",
+			"bordering",
+			"sourceValue",
+			"source",
+			"props",
+			"sub",
+			"inner",
+			"Locale",
+			"Locales",
+			"states",
+			"stateInfo",
+			"statesInfo",
+			"states",
+			"values",
+			"base",
+			"cls",
+			"cardPiece",
+			"CardPiece",
+			"CardArea",
+			"DesiredPOV",
+			"CurrentPOV"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								411,
+								411
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/probe/ck2.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								407,
+								407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/probe/probe.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1243,
+								1243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 216.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 249.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 98.0
+	},
+	"output.package_dev":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "Packages/AAAPackageDev/Support/Convert to ....sublime-build",
+	"project": "WebProbe.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gal",
+				"Source\\Core\\gallery.js"
+			],
+			[
+				"ui",
+				"Source\\UI\\UI.js"
+			],
+			[
+				"",
+				"Source\\UI\\UI.js"
+			],
+			[
+				"mai",
+				"Source\\Main.js"
+			],
+			[
+				"arch",
+				"Source\\Core\\Archive.js"
+			],
+			[
+				"predi",
+				"Source\\Core\\Predicate.js"
+			],
+			[
+				"ar",
+				"Source\\Core\\Archive.js"
+			],
+			[
+				"pred",
+				"Source\\Core\\Predicate.js"
+			],
+			[
+				"scip",
+				"Source\\Entities\\Scripting.js"
+			],
+			[
+				"base",
+				"Source\\Core\\BaseObject.js"
+			],
+			[
+				"archi",
+				"Source\\Core\\Archive.js"
+			],
+			[
+				"pre",
+				"Source\\Core\\Predicate.js"
+			],
+			[
+				"baseob",
+				"Source\\Core\\BaseObject.js"
+			],
+			[
+				"worl",
+				"Source\\Entities\\World.js"
+			],
+			[
+				"enti",
+				"Source\\Entities\\Entity.js"
+			],
+			[
+				"baseo",
+				"Source\\Core\\BaseObject.js"
+			],
+			[
+				"des",
+				"Source\\Core\\Descriptor.js"
+			],
+			[
+				"play",
+				"Source\\Entities\\Player.js"
+			],
+			[
+				"game",
+				"Source\\Game.js"
+			],
+			[
+				"scree",
+				"Source\\UI\\Templates\\Screens.js"
+			],
+			[
+				"sce",
+				"Source\\Entities\\Scene.js"
+			],
+			[
+				"scenes",
+				"Source\\Definitions\\Scenes.js"
+			],
+			[
+				"gameel",
+				"Source\\UI\\Elements\\GameElements.js"
+			],
+			[
+				"poi",
+				"Source\\Entities\\POI.js"
+			],
+			[
+				"loca",
+				"Source\\Entities\\Location.js"
+			],
+			[
+				"pov",
+				"Source\\Entities\\POV.js"
+			],
+			[
+				"wor",
+				"Source\\Definitions\\WorldData.js"
+			],
+			[
+				"world",
+				"Source\\Definitions\\WorldData.js"
+			],
+			[
+				"po",
+				"Source\\Entities\\POI.js"
+			],
+			[
+				"spri",
+				"Source\\Definitions\\Sprites.js"
+			],
+			[
+				"wo",
+				"Source\\Definitions\\WorldData.js"
+			],
+			[
+				"scen",
+				"Source\\Entities\\Scene.js"
+			],
+			[
+				"key",
+				"Source\\Definitions\\Keywords.js"
+			],
+			[
+				"sc",
+				"Source\\Entities\\Scene.js"
+			],
+			[
+				"gam",
+				"Source\\Game.js"
+			],
+			[
+				"ma",
+				"Source\\Main.js"
+			],
+			[
+				"math",
+				"Source\\Utils\\MathEx.js"
+			],
+			[
+				"kee",
+				"Source\\Entities\\Keeper.js"
+			],
+			[
+				"part",
+				"Source\\Entities\\Party.js"
+			],
+			[
+				"ga",
+				"Source\\Game.js"
+			],
+			[
+				"par",
+				"Source\\Entities\\Party.js"
+			],
+			[
+				"actor",
+				"Source\\Entities\\Actor.js"
+			],
+			[
+				"jsfa",
+				"Source\\Libs\\jsface.js"
+			],
+			[
+				"js",
+				"Source\\Libs\\jsface.js"
+			],
+			[
+				"arc",
+				"Source\\Core\\Archive.js"
+			],
+			[
+				"uti",
+				"Source\\Utils\\Utils.js"
+			],
+			[
+				"mathex",
+				"Source\\Utils\\MathEx.js"
+			],
+			[
+				"en",
+				"Source\\Entities\\Entity.js"
+			],
+			[
+				"ent",
+				"Source\\Entities\\Entity.js"
+			],
+			[
+				"sty",
+				"CSS\\Style.css"
+			],
+			[
+				"chara",
+				"Source\\Entities\\Character.js"
+			],
+			[
+				"gamete",
+				"Source\\UI\\Templates\\GameTemplates.js"
+			],
+			[
+				"basic",
+				"Source\\UI\\Elements\\BasicElements.js"
+			],
+			[
+				"cha",
+				"Source\\Entities\\Character.js"
+			],
+			[
+				"char",
+				"Source\\Definitions\\Characters.js"
+			],
+			[
+				"crea",
+				"Source\\Entities\\Character.js"
+			],
+			[
+				"basi",
+				"Source\\UI\\Elements\\BasicElements.js"
+			],
+			[
+				"scre",
+				"Source\\UI\\Templates\\Screens.js"
+			],
+			[
+				"gametem",
+				"Source\\UI\\Templates\\GameTemplates.js"
+			],
+			[
+				"style",
+				"CSS\\Style.css"
+			],
+			[
+				"basee",
+				"Source\\UI\\Elements\\BasicElements.js"
+			],
+			[
+				"sta",
+				"Source\\Entities\\Stage.js"
+			],
+			[
+				"mathe",
+				"Source\\Utils\\MathEx.js"
+			],
+			[
+				"stage",
+				"Source\\Entities\\Stage.js"
+			],
+			[
+				"stag",
+				"Source\\Entities\\Stage.js"
+			],
+			[
+				"action",
+				"Source\\Sequences\\ActionSequences.js"
+			],
+			[
+				"basete",
+				"Source\\UI\\Templates\\BasicTemplates.js"
+			],
+			[
+				"cs",
+				"CSS\\Style.css"
+			],
+			[
+				"syt",
+				"CSS\\Style.css"
+			],
+			[
+				"pl",
+				"Source\\Entities\\Player.js"
+			],
+			[
+				"pla",
+				"Source\\Entities\\Player.js"
+			],
+			[
+				"envi",
+				"Source\\Definitions\\Environments.js"
+			],
+			[
+				"player",
+				"Source\\Entities\\Player.js"
+			],
+			[
+				"sp",
+				"Source\\Definitions\\Sprites.js"
+			],
+			[
+				"env",
+				"Source\\Definitions\\Environments.js"
+			],
+			[
+				"gamee",
+				"Source\\UI\\Templates\\GameTemplates.js"
+			],
+			[
+				"card",
+				"Source\\Entities\\Card.js"
+			],
+			[
+				"util",
+				"Source\\Utils\\Utils.js"
+			],
+			[
+				"actions",
+				"Source\\Sequences\\ActionSequences.js"
+			],
+			[
+				"ac",
+				"Source\\Entities\\Activity.js"
+			],
+			[
+				"envir",
+				"Source\\Entities\\Environment.js"
+			],
+			[
+				"comp",
+				"Source\\Core\\Components.js"
+			],
+			[
+				"plan",
+				"Source\\Core\\Planner.js"
+			],
+			[
+				"acti",
+				"Source\\Entities\\Activity.js"
+			],
+			[
+				"activ",
+				"Source\\Entities\\Activity.js"
+			],
+			[
+				"main",
+				"Source\\Main.js"
+			],
+			[
+				"sys",
+				"Source\\Core\\System.js"
+			],
+			[
+				"ui.",
+				"Source\\UI\\UI.js"
+			],
+			[
+				"party",
+				"Source\\Entities\\Party.js"
+			],
+			[
+				"activi",
+				"Source\\Entities\\Activity.js"
+			],
+			[
+				"st",
+				"CSS\\Style.css"
+			],
+			[
+				"cardp",
+				"Source\\Table\\CardPiece.js"
+			],
+			[
+				"tab",
+				"Source\\Table\\Table.js"
+			],
+			[
+				"cardpi",
+				"Source\\Table\\CardPiece.js"
+			],
+			[
+				"co",
+				"Source\\Core.js"
+			],
+			[
+				"cardcom",
+				"Source\\Components\\CardComponent.js"
+			],
+			[
+				"loc",
+				"Source\\Entities\\Location.js"
+			],
+			[
+				"go",
+				"Source\\Entities\\Goal.js"
+			],
+			[
+				"act",
+				"Source\\Entities\\Activity.js"
+			],
+			[
+				"pa",
+				"Source\\Entities\\Party.js"
+			],
+			[
+				"que",
+				"Source\\Entities\\Quest.js"
+			],
+			[
+				"sy",
+				"Source\\Core\\System.js"
+			],
+			[
+				"com",
+				"Source\\Core\\Components.js"
+			],
+			[
+				"ut",
+				"Source\\Utils\\Utils.js"
+			],
+			[
+				"tabl",
+				"Source\\Table\\Table.js"
+			],
+			[
+				"cards",
+				"Source\\Definitions\\Cards.js"
+			],
+			[
+				"spr",
+				"Source\\Definitions\\Sprites.js"
+			],
+			[
+				"worldda",
+				"Source\\Definitions\\WorldData.js"
+			],
+			[
+				"ques",
+				"Source\\Entities\\Quest.js"
+			],
+			[
+				"compo",
+				"Source\\Core\\Components.js"
+			],
+			[
+				"lo",
+				"Source\\Entities\\Location.js"
+			],
+			[
+				"note",
+				"Docs\\Notes.txt"
+			],
+			[
+				"como",
+				"Source\\Core\\Components.js"
+			],
+			[
+				"ta",
+				"Source\\Table\\Table.js"
+			],
+			[
+				"quest",
+				"Source\\Entities\\Quest.js"
+			],
+			[
+				"qu",
+				"Source\\Entities\\Quest.js"
+			],
+			[
+				"insta",
+				"Source\\Definitions\\Stages.js"
+			],
+			[
+				"scene",
+				"Source/Entities/Scene.js"
+			],
+			[
+				"type",
+				"Source/Components/Types.js"
+			],
+			[
+				"typ",
+				"Source/Components/Types.js"
+			],
+			[
+				"cardco",
+				"Source/Components/CardComponent.js"
+			],
+			[
+				"dia",
+				"Source/Table/Dialog.js"
+			],
+			[
+				"styl",
+				"CSS/Style.css"
+			],
+			[
+				"sprit",
+				"Source/Definitions/Sprites.js"
+			],
+			[
+				"nar",
+				"Source/Entities/Narrator.js"
+			],
+			[
+				"css",
+				"CSS/Style.css"
+			],
+			[
+				"na",
+				"Source/Entities/Narrator.js"
+			],
+			[
+				"table",
+				"Source/Entities/Table.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 141.0,
+		"last_filter": "custom",
+		"selected_items":
+		[
+			[
+				"custom",
+				"CustomValue"
+			],
+			[
+				"fn",
+				"jQuery.fn"
+			],
+			[
+				"card",
+				"CardDefinition"
+			]
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
