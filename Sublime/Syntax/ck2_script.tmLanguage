@@ -116,7 +116,7 @@
 		<key>keys</key>
 		<dict>
 			<key>begin</key>
-			<string>\s*(?=\w+\s*\=)</string>
+			<string>\s*(?=[\w:]+\s*\=)</string>
 			<key>end</key>
 			<string>\s*(?=\W)</string>
 			<key>patterns</key>
@@ -165,7 +165,7 @@
 		<key>scopes</key>
 		<dict>
 			<key>match</key>
-			<string>\b(?:(?:any_allied_character|any_attacker|any_backed_character|any_child|any_claimant|any_close_relative|any_courtier|any_current_enemy|any_de_jure_vassal|any_defender|any_dynasty_member|any_enemy_plotter|any_faction_backer|any_friend|any_independent_ruler|any_known_enemy_plotter|any_known_plotter|any_liege|any_lover|any_opinion_modifier_target|any_playable_ruler|any_plot_backer|any_previous_holder|any_province_character|any_province_lord|any_realm_character|any_realm_lord|any_rival|any_sibling|any_spouse|any_consort|any_suzerain|any_trade_post|any_unique_dynasty_vassal|any_unknown_enemy_plotter|any_vassal|any_ward|attacker|band_creator|best_crusade_claimant|biggest_realm_size_relative|blood_brother|controller|current_heir|defender|dynasty_head|employer|enemy|father|father_of_unborn|guardian|heir_under_seniority_law|heir_under_primogeniture_law|highest_ranked_relative|holder_scope|host|killer|leader|liege|liege_before_war|lover|mercenary_employer|most_participating_attacker|most_participating_crusader|most_participating_defender|most_prestigious_clan_vassal|mother|new_character|owner|parent_religion_head|plot_target_char|random_allied_character|random_backed_character|random_child|random_courtier|random_current_enemy|random_dynasty_member|random_enemy_plotter|random_friend|random_independent_ruler|random_known_enemy_plotter|random_lover|random_opinion_modifier_target|random_playable_ruler|random_province_character|random_province_lord|random_realm_character|random_realm_lord|random_rival|random_sibling|random_spouse|random_consort|random_trade_post|random_unknown_enemy_plotter|random_vassal|random_ward|real_father|reincarnation_scope|regent|religion_head|rightful_religious_head_scope|ruler|spouse|strongest_clan_vassal|supported_claimant|suzerain|top_liege|trade_post_owner|job_chancellor|job_marshal|job_treasurer|job_spymaster|job_spiritual)(_even_if_dead)?|title_to_get_rid_of|any_claim|any_de_jure_vassal_title|any_direct_de_jure_vassal_title|any_demesne_title|any_heir_title|any_mercenary_band|any_potential_tribal_county|any_pretender_title|any_province_holding|any_realm_title|any_title|capital_holding|clan_title|county|crownlaw_title|crusade_target|defacto_liege_title|dejure_liege_title|duchy|empire|family_palace|invasion_target|kingdom|new_title|plot_target_title|primary_title|random_claim|random_demesne_title|random_potential_tribal_county|random_province_holding|random_realm_title|supported_claimant_title|realm|succ_law_title|thirdparty_title_scope|any_demesne_province|any_neighbor_province|any_realm_province|any_trade_route_province|capital_scope|location|plot_target_province|random_demesne_province|random_neighbor_province|random_realm_province|sea_zone|any_war|siege|any_army|tooltip|hidden_tooltip)\b</string>
+			<string>\b(?:event_target:[a-zA-Z_]+|(?:any_allied_character|any_attacker|any_backed_character|any_child|any_claimant|any_close_relative|any_courtier|any_current_enemy|any_de_jure_vassal|any_defender|any_dynasty_member|any_enemy_plotter|any_faction_backer|any_friend|any_independent_ruler|any_known_enemy_plotter|any_known_plotter|any_liege|any_lover|any_opinion_modifier_target|any_playable_ruler|any_plot_backer|any_previous_holder|any_province_character|any_province_lord|any_realm_character|any_realm_lord|any_rival|any_sibling|any_spouse|any_consort|any_suzerain|any_trade_post|any_unique_dynasty_vassal|any_unknown_enemy_plotter|any_vassal|any_ward|attacker|band_creator|best_crusade_claimant|biggest_realm_size_relative|blood_brother|controller|current_heir|defender|dynasty_head|employer|enemy|father|father_of_unborn|guardian|heir_under_seniority_law|heir_under_primogeniture_law|highest_ranked_relative|holder_scope|host|killer|leader|liege|liege_before_war|lover|mercenary_employer|most_participating_attacker|most_participating_crusader|most_participating_defender|most_prestigious_clan_vassal|mother|new_character|owner|parent_religion_head|plot_target_char|random_allied_character|random_backed_character|random_child|random_courtier|random_current_enemy|random_dynasty_member|random_enemy_plotter|random_friend|random_independent_ruler|random_known_enemy_plotter|random_lover|random_opinion_modifier_target|random_playable_ruler|random_province_character|random_province_lord|random_realm_character|random_realm_lord|random_rival|random_sibling|random_spouse|random_consort|random_trade_post|random_unknown_enemy_plotter|random_vassal|random_ward|real_father|reincarnation_scope|regent|religion_head|rightful_religious_head_scope|ruler|spouse|strongest_clan_vassal|supported_claimant|suzerain|top_liege|trade_post_owner|job_chancellor|job_marshal|job_treasurer|job_spymaster|job_spiritual)(_even_if_dead)?|title_to_get_rid_of|any_claim|any_de_jure_vassal_title|any_direct_de_jure_vassal_title|any_demesne_title|any_heir_title|any_mercenary_band|any_potential_tribal_county|any_pretender_title|any_province_holding|any_realm_title|any_title|capital_holding|clan_title|county|crownlaw_title|crusade_target|defacto_liege_title|dejure_liege_title|duchy|empire|family_palace|invasion_target|kingdom|new_title|plot_target_title|primary_title|random_claim|random_demesne_title|random_potential_tribal_county|random_province_holding|random_realm_title|supported_claimant_title|realm|succ_law_title|thirdparty_title_scope|any_demesne_province|any_neighbor_province|any_realm_province|any_trade_route_province|capital_scope|location|plot_target_province|random_demesne_province|random_neighbor_province|random_realm_province|sea_zone|any_war|siege|any_army|tooltip|hidden_tooltip)\b</string>
 			<key>name</key>
 			<string>entity.other.attribute-name.placeholder-selector.sass</string>
 		</dict>
@@ -224,7 +224,7 @@
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>\"[\w\s]+\"</string>
+					<string>\"[\w\s\.\[\]]+\"</string>
 					<key>name</key>
 					<string>string.quoted.double.ck2_script</string>
 				</dict>
@@ -258,7 +258,7 @@
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>\w+</string>
+					<string>[\w\-]+</string>
 					<key>name</key>
 					<string>variable.other.constant.ck2_script</string>
 				</dict>
