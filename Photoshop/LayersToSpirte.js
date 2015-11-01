@@ -119,7 +119,11 @@ function main()
 			var movX = spriteX*coli;
 			var movY = spriteY*rowi;
 			
-			docRef.artLayers[i].translate(movX, movY);
+			var bounds = docRef.artLayers[i].bounds;
+			if ((bounds[2] - bounds[0]) > 0 && (bounds[3] - bounds[1]) > 0)
+			{
+				docRef.artLayers[i].translate(movX, movY);	
+			}
 			
 			// store the moves for back layer
 			if (backLayer !== null)
